@@ -93,7 +93,7 @@ Key Risk Indicators tied to live monitoring data — phishing click-rate, mean t
 
 ## Author
 
-**Darin Ursu** — Compliance Operations Analyst (Microsoft OMP, via Infosys). Working towards CISSP; Associate of ISC², CompTIA Security+, ISC² CC.
+**Darin Ursu** — Compliance Operations Analyst (Microsoft OMP, via Infosys). Associate of ISC² (Passed CISSP), CompTIA Security+, ISC² CC.
 
 [LinkedIn](https://www.linkedin.com/in/darinursu)
 
